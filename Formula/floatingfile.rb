@@ -1,4 +1,4 @@
-class floatingfile < Formula
+class Floatingfile < Formula
     desc "The official floatingfile CLI"
     homepage "https://floatingfile.space"
     url "https://github.com/garethlau/homebrew-floatingfile/releases/download/v0.1.0/floatingfile-macos-x64.tar.gz"
