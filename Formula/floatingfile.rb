@@ -1,9 +1,9 @@
 class Floatingfile < Formula
     desc "The official floatingfile CLI"
     homepage "https://floatingfile.space"
-    url "https://github.com/garethlau/homebrew-floatingfile/releases/download/v0.1.0/floatingfile-macos-x64.tar.gz"
-    sha256 "7cf9e2de3a75fe8171b543cb59a40c9f91a642db33feee22cc4725d04dbfc0e9"
-    version "0.1.0"
+    url "https://github.com/garethlau/homebrew-floatingfile/releases/download/v1.0.0/floatingfile-macos-x64-v1.0.0.tar.gz"
+    sha256 "e513c71dcde3aa5a2d250135db00154634e9826ad0eb32aa7695bb79e1df1a32"
+    version "1.0.0"
     def install
       bin.install "floatingfile"
     end
