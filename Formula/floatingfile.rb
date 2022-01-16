@@ -2,7 +2,7 @@ class Floatingfile < Formula
     desc "The official floatingfile CLI"
     homepage "https://floatingfile.space/cli"
     url "https://github.com/garethlau/floatingfile/releases/download/v3.4.0/floatingfile-macos-x64-v3.4.0.tar.gz"
-    sha256 "e2f98ad6d428d10d556cb214bb42484a59627df7ce47f5db628e18729160778a"
+    sha256 "2b2847916d0e7fbe56e3c688ae9d21442eee4f22261046fa6e1f68b492caac80"
     version "3.4.0"
     def install
       bin.install "floatingfile"
